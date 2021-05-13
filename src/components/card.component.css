@@ -1,0 +1,24 @@
+.backCard,
+.frontCard {
+  width: 150px;
+  height: 150px;
+  border: 1px #264653 solid;
+  border-radius: 5%;
+  background: #2A9D8F;
+  
+}
+
+.card_matched_backCard {
+  opacity: 0; 
+}
+
+.card_matched_frontCard
+{
+    opacity: 0;
+    transition:all 3s;
+}
+
+.not_matched{
+  opacity: 1;
+  transition:0ms;
+}

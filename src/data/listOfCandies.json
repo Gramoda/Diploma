@@ -1,0 +1,18 @@
+[
+  { "name": "100-grand", "selected": false, "matched": false },
+  { "name": "airheads", "selected": false, "matched": false },
+  { "name": "blow-pop", "selected": false, "matched": false },
+  { "name": "junior-mint", "selected": false, "matched": false },
+  { "name": "m-and-m", "selected": false, "matched": false },
+  { "name": "nerds", "selected": false, "matched": false },
+  { "name": "smarties", "selected": false, "matched": false },
+  { "name": "starburst", "selected": false, "matched": false },
+  { "name": "3-muskateers", "selected": false, "matched": false },
+  { "name": "almond-joy", "selected": false, "matched": false },
+  { "name": "crunch", "selected": false, "matched": false },
+  { "name": "kit-kat", "selected": false, "matched": false },
+  { "name": "milky-way", "selected": false, "matched": false },
+  { "name": "rolo", "selected": false, "matched": false },
+  { "name": "snickers", "selected": false, "matched": false },
+  { "name": "york", "selected": false, "matched": false }
+]
